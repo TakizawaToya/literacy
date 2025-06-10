@@ -1,0 +1,13 @@
+h1 {
+            color: #FFFFFF; /* 白 */
+        }
+        body {
+            background-color: #005BAC; /* 日本代表の青 */
+            color: white; /* 白文字 */
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        
+        .highlight {
+            color: #B3001E; /* 赤 */
+        }
